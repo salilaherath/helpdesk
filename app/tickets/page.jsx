@@ -1,5 +1,17 @@
-const Tickets = () => {
-  return <main>Tickets</main>;
-};
+import TicketList from "./TicketList";
 
-export default Tickets;
+export default function Tickets() {
+  return (
+    <main>
+      <nav>
+        <div>
+          <h2>Tickets</h2>
+          <p>
+            <small>Currently open tickets</small>
+          </p>
+        </div>
+      </nav>
+      <TicketList />
+    </main>
+  );
+}
