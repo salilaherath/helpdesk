@@ -10,7 +10,7 @@ export default function Home() {
         recusandae alias sequi totam soluta natus iure eius, obcaecati sint
         dolores blanditiis aspernatur quo officia iusto ut. Et, aliquid sed
         voluptates iste cum totam, facere explicabo, fugit suscipit ratione
-        aspernatur consequuntur ex mollitia quaerat?
+        aspernatur consequuntur ex mollitia
       </p>
 
       <div className="flex justify-center my-8">
